@@ -5,7 +5,7 @@ This is a Simple Python Django Portolio.The portfolio is easy  just use "/admin"
 <h3> 
      
      
-<div> <img src="drive.google.com/file/d/1DVhVekrtgou7y_zvb2w7NrfXfQhdh5WO/view"  />
+<div> <img src="https://github.com/Nelsonkariuki/Portforlio/blob/main/mode.png"  />
 
 
 ## Run these Commads
